@@ -1,0 +1,13 @@
+{
+  "env_name": "prod",
+  "connections": {
+    "composer_project": "prj-sc-p-ds-training"
+  },
+  "bq_connections": {
+    "live": "ds-sc-feed-live",
+    "dummy_project": "maximal-furnace-783"
+  },
+  "gcp_projects": {
+    "production": "sharechat-production"
+  }
+}
